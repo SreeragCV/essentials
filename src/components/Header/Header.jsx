@@ -1,4 +1,5 @@
-import setImage from "../assets/react-core-concepts.png";
+import setImage from "../../assets/react-core-concepts.png";
+import './Header.css'
 
 const reactDescriptors = ["Core", "Crucial", "Fundamental"];
 
